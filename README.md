@@ -1,24 +1,11 @@
-# README
+FileRepo:
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First RubyOnRails application developed as a simple document repository like Evernote or Google Drive.
 
-Things you may want to cover:
 
-* Ruby version
+|||||||||===============================||||||||==================================|||||||||
 
-* System dependencies
+FileRepo:
 
-* Configuration
+Primeira aplicacao RubyOnRails desenvolvida como um simples repositorio de documentos do estilo de aplicacoes como Evernote e Google Drive.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
